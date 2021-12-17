@@ -9,7 +9,7 @@ scoreRightWrist=0;
  righttWristY=0;
 function preload()
 {
-    song = loadSound("Illegal wepon");
+    song = loadSound("Illeagal wepon.mp3");
 }
  
  
